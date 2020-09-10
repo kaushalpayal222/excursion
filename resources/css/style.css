@@ -38,5 +38,10 @@ main {
 footer {
     text-align: right;
     color: gray;
+    font-size: 21px;
+}
+
+i {
+    padding: 0 6px;
 }
 
